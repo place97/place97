@@ -13,4 +13,4 @@ I am currently a Computer Science Student. I like to work with Java, Python. I l
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>

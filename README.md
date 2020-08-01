@@ -1,8 +1,8 @@
-### Marco Placentino 
+### Marco Placentino 💻
 
 [![Github](https://img.shields.io/github/followers/place97?label=Follow&style=social)](https://github.com/place97)
 [![Linkedin](https://img.shields.io/badge/-Marco%20Placentino-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-placentino-02a675172/)](https://www.linkedin.com/in/marco-placentino-02a675172/)
-[![Instagram]
+
 
 ## About me 
 I am currently a Computer Science Student. I like to work with Java, Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
